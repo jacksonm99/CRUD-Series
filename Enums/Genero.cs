@@ -12,7 +12,7 @@ namespace CadastroSeries
     Espionagem = 7,
     Fantasia = 8,
     Faroeste= 9,
-    Ficção científica = 10,
+    Ficção = 10,
     Guerra = 11,
     Mistério = 12,
     Musical = 13,
